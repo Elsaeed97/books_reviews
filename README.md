@@ -52,6 +52,12 @@ python manage.py createsuperuser
 python manage.py runserver
 ```
 
+7. Run Unit tests
+```bash
+python manage.py test
+```
+
+
 ## API Documentation
 
 The API documentation is available at:
